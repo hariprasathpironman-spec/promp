@@ -1,0 +1,6 @@
+{
+  "name": "Prompter",
+  "description": "An AI prompt optimization application that transforms simple ideas into powerful, AI-ready prompts tailored specifically for different AI models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
